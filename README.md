@@ -85,5 +85,4 @@ DLL E1_Impressora01.dll
 
 Impressora Elgin compatível (i7, i7 Plus, i8, i9, Fitpos, MP-4200 etc)
 
-
-**Desenvolvido por: João e Rai**
+Desenvolvido por: **João**
