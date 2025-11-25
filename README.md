@@ -78,6 +78,12 @@ O menu será exibido no terminal:
 **Requisitos**
 
 Windows (7+)
+
 Compilador C (MinGW ou MSVC)
+
 DLL E1_Impressora01.dll
+
 Impressora Elgin compatível (i7, i7 Plus, i8, i9, Fitpos, MP-4200 etc)
+
+
+**Desenvolvido por: João e Rai**
